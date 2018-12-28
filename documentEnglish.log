@@ -1,0 +1,749 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2018.7.5)  28 DEC 2018 08:29
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**documentEnglish
+(./documentEnglish.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, et
+hiopic, farsi, arabic, pinyin, croatian, bulgarian, ukrainian, russian, slovak,
+ czech, danish, dutch, usenglishmax, ukenglish, finnish, french, basque, ngerma
+n, german, swissgerman, ngerman-x-2012-05-30, german-x-2012-05-30, monogreek, g
+reek, ibycus, ancientgreek, hungarian, bengali, tamil, hindi, telugu, gujarati,
+ sanskrit, malayalam, kannada, assamese, marathi, oriya, panjabi, italian, lati
+n, latvian, lithuanian, mongolian, mongolianlmc, nynorsk, bokmal, indonesian, e
+speranto, coptic, welsh, irish, interlingua, serbian, serbianc, slovenian, friu
+lan, romansh, estonian, romanian, armenian, uppersorbian, turkish, afrikaans, i
+celandic, kurmanji, polish, portuguese, galician, catalan, spanish, swedish, th
+ai, loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count88
+\float@exts=\toks15
+\float@box=\box26
+\@float@everytoks=\toks16
+\@floatcapt=\box27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+Package: algorithm2e 2008/00/00 v3.10 algorithms environments
+\c@AlgoLine=\count89
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2011/09/21 ver 4.0
+
+Examine \normalsize starts \@setfontsize size may be \@xpt. 
+Examine \small starts \@setfontsize size may be \@ixpt. 
+Examine \footnotesize starts \@setfontsize size may be \@viiipt. 
+Examine \large starts \@setfontsize size may be \@xiipt. 
+Examine \Large starts \@setfontsize size may be \@xivpt. 
+Examine \LARGE starts \@setfontsize size may be \@xviipt. 
+Examine \scriptsize starts \@setfontsize size may be \@viipt. 
+Examine \tiny starts \@setfontsize size may be \@vpt. 
+Examine \huge starts \@setfontsize size may be \@xxpt. 
+Examine \Huge starts \@setfontsize size may be \@xxvpt. )
+********************************************************
+Package `algorithm2e' Release 4.01 -- december 14 2009 --
+- algorithm2e-announce@lirmm.fr mailing list for announcement about releases
+- algorithm2e-discussion@lirmm.fr mailing list for discussion about package
+subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
+- Author: Christophe Fiorio (fiorio@lirmm.fr)
+********************************************************
+\skiptotal=\skip43
+\skiplinenumber=\skip44
+\skiprule=\skip45
+\skiphlne=\skip46
+\skiptext=\skip47
+\skiplength=\skip48
+\algomargin=\skip49
+\skipalgocfslide=\skip50
+\algowidth=\dimen105
+\inoutsize=\dimen106
+\inoutline=\dimen107
+\interspacetitleruled=\dimen108
+\interspacealgoruled=\dimen109
+\interspacetitleboxruled=\dimen110
+\algocf@inoutbox=\box28
+\algocf@inputbox=\box29
+\AlCapSkip=\skip51
+\AlCapHSkip=\skip52
+\algocf@nlbox=\box30
+\algocf@hangingbox=\box31
+\algocf@capbox=\box32
+\algoheightruledefault=\skip53
+\algoheightrule=\skip54
+\algotitleheightruledefault=\skip55
+\algotitleheightrule=\skip56
+\c@algocfline=\count90
+\c@algocfproc=\count91
+\c@algocf=\count92
+\algocf@algoframe=\box33
+\algocf@algobox=\box34
+) (./documentEnglish.aux
+
+LaTeX Warning: Label `simulationfigure' multiply defined.
+
+
+LaTeX Warning: Label `simulationfigure' multiply defined.
+
+
+LaTeX Warning: Label `simulationfigure' multiply defined.
+
+
+LaTeX Warning: Label `simulationfigure' multiply defined.
+
+
+LaTeX Warning: Label `simulationfigure' multiply defined.
+
+
+LaTeX Warning: Label `simulationfigure' multiply defined.
+
+
+LaTeX Warning: Label `simulationfigure' multiply defined.
+
+
+LaTeX Warning: Label `simulationfigure' multiply defined.
+
+
+LaTeX Warning: Label `simulationfigure' multiply defined.
+
+
+LaTeX Warning: Label `simulationfigure' multiply defined.
+
+
+LaTeX Warning: Label `simulationfigure' multiply defined.
+
+
+LaTeX Warning: Label `simulationfigure' multiply defined.
+
+
+LaTeX Warning: Label `simulationfigure' multiply defined.
+
+
+LaTeX Warning: Label `simulationfigure' multiply defined.
+
+
+LaTeX Warning: Label `simulationfigure' multiply defined.
+
+
+LaTeX Warning: Label `simulationfigure' multiply defined.
+
+
+LaTeX Warning: Label `simple_equation' multiply defined.
+
+
+LaTeX Warning: Label `simulationfigure' multiply defined.
+
+
+LaTeX Warning: Label `simulationfigure' multiply defined.
+
+
+LaTeX Warning: Label `latexcompanion' multiply defined.
+
+
+LaTeX Warning: Label `latexcompanion' multiply defined.
+
+
+LaTeX Warning: Label `latexcompanion' multiply defined.
+
+
+LaTeX Warning: Label `latexcompanion' multiply defined.
+
+
+LaTeX Warning: Label `simulationfigure' multiply defined.
+
+
+LaTeX Warning: Label `latexcompanion' multiply defined.
+
+
+LaTeX Warning: Label `latexcompanion' multiply defined.
+
+
+LaTeX Warning: Label `latexcompanion' multiply defined.
+
+
+LaTeX Warning: Label `latexcompanion' multiply defined.
+
+
+LaTeX Warning: Label `latexcompanion' multiply defined.
+
+
+LaTeX Warning: Label `latexcompanion' multiply defined.
+
+
+LaTeX Warning: Label `latexcompanion' multiply defined.
+
+
+LaTeX Warning: Label `latexcompanion' multiply defined.
+
+
+LaTeX Warning: Label `latexcompanion' multiply defined.
+
+
+LaTeX Warning: Label `latexcompanion' multiply defined.
+
+
+LaTeX Warning: Label `latexcompanion' multiply defined.
+
+
+LaTeX Warning: Label `latexcompanion' multiply defined.
+
+
+LaTeX Warning: Label `latexcompanion' multiply defined.
+
+
+LaTeX Warning: Label `latexcompanion' multiply defined.
+
+
+LaTeX Warning: Label `latexcompanion' multiply defined.
+
+
+LaTeX Warning: Label `latexcompanion' multiply defined.
+
+
+LaTeX Warning: Label `latexcompanion' multiply defined.
+
+
+LaTeX Warning: Label `latexcompanion' multiply defined.
+
+
+LaTeX Warning: Label `latexcompanion' multiply defined.
+
+)
+\openout1 = `documentEnglish.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+ (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count93
+\scratchdimen=\dimen111
+\scratchbox=\box35
+\nofMPsegments=\count94
+\nofMParguments=\count95
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count96
+\MPscratchDim=\dimen112
+\MPnumerator=\count97
+\makeMPintoPDFobject=\count98
+\everyMPtoPDFconversion=\toks18
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 15.
+
+
+LaTeX Warning: No \author given.
+
+<screenshot001.png, id=1, 293.59688pt x 91.09032pt>
+File: screenshot001.png Graphic file (type png)
+ <use screenshot001.png>
+Package pdftex.def Info: screenshot001.png used on input line 27.
+(pdftex.def)             Requested size: 216.81pt x 67.26677pt.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./screenshot001.png>]
+<screenshot002.png, id=13, 111.41624pt x 71.51718pt>
+File: screenshot002.png Graphic file (type png)
+ <use screenshot002.png>
+Package pdftex.def Info: screenshot002.png used on input line 38.
+(pdftex.def)             Requested size: 144.54pt x 92.78679pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 44.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 44.
+
+<screenshot003.png, id=14, 185.19188pt x 106.14656pt>
+File: screenshot003.png Graphic file (type png)
+ <use screenshot003.png>
+Package pdftex.def Info: screenshot003.png used on input line 48.
+(pdftex.def)             Requested size: 216.81pt x 124.27034pt.
+
+[2 <./screenshot002.png (PNG copy)> <./screenshot003.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 56.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 56.
+
+<screenshot004.png, id=21, 248.42813pt x 111.41624pt>
+File: screenshot004.png Graphic file (type png)
+ <use screenshot004.png>
+Package pdftex.def Info: screenshot004.png used on input line 62.
+(pdftex.def)             Requested size: 216.81pt x 97.23735pt.
+
+<screenshot005.png, id=22, 238.64156pt x 103.13531pt>
+File: screenshot005.png Graphic file (type png)
+ <use screenshot005.png>
+Package pdftex.def Info: screenshot005.png used on input line 69.
+(pdftex.def)             Requested size: 216.81pt x 93.69904pt.
+
+[3 <./screenshot004.png> <./screenshot005.png>]
+<screenshot006.png, id=28, 305.64188pt x 98.61844pt>
+File: screenshot006.png Graphic file (type png)
+ <use screenshot006.png>
+Package pdftex.def Info: screenshot006.png used on input line 79.
+(pdftex.def)             Requested size: 216.81pt x 69.95485pt.
+
+<screenshot007.png, id=29, 280.79906pt x 118.94438pt>
+File: screenshot007.png Graphic file (type png)
+ <use screenshot007.png>
+Package pdftex.def Info: screenshot007.png used on input line 86.
+(pdftex.def)             Requested size: 216.81pt x 91.8379pt.
+
+<screenshot008.png, id=30, 239.39438pt x 107.65219pt>
+File: screenshot008.png Graphic file (type png)
+ <use screenshot008.png>
+Package pdftex.def Info: screenshot008.png used on input line 95.
+(pdftex.def)             Requested size: 216.81pt x 97.49712pt.
+
+[4 <./screenshot006.png> <./screenshot007.png>]
+<screenshot009.png, id=36, 300.3722pt x 136.25906pt>
+File: screenshot009.png Graphic file (type png)
+ <use screenshot009.png>
+Package pdftex.def Info: screenshot009.png used on input line 102.
+(pdftex.def)             Requested size: 216.81pt x 98.35593pt.
+
+<screenshot010.png, id=37, 230.36063pt x 101.62968pt>
+File: screenshot010.png Graphic file (type png)
+ <use screenshot010.png>
+Package pdftex.def Info: screenshot010.png used on input line 109.
+(pdftex.def)             Requested size: 216.81pt x 95.6513pt.
+
+<screenshot011.png, id=38, 316.93407pt x 123.46124pt>
+File: screenshot011.png Graphic file (type png)
+ <use screenshot011.png>
+Package pdftex.def Info: screenshot011.png used on input line 116.
+(pdftex.def)             Requested size: 216.81pt x 84.45927pt.
+
+[5 <./screenshot008.png> <./screenshot009.png> <./screenshot010.png> <./screens
+hot011.png>] <screenshot012.png, id=46, 453.19313pt x 196.48407pt>
+File: screenshot012.png Graphic file (type png)
+
+<use screenshot012.png>
+Package pdftex.def Info: screenshot012.png used on input line 140.
+(pdftex.def)             Requested size: 216.81pt x 93.99947pt.
+ [6]
+<screenshot013.png, id=55, 453.19313pt x 179.92218pt>
+File: screenshot013.png Graphic file (type png)
+ <use screenshot013.png>
+Package pdftex.def Info: screenshot013.png used on input line 156.
+(pdftex.def)             Requested size: 216.81pt x 86.07614pt.
+
+[7 <./screenshot012.png>] <screenshot014.png, id=61, 453.19313pt x 180.675pt>
+File: screenshot014.png Graphic file (type png)
+
+<use screenshot014.png>
+Package pdftex.def Info: screenshot014.png used on input line 163.
+(pdftex.def)             Requested size: 216.81pt x 86.4363pt.
+ [8 <./screenshot013.png> <./screenshot014.png>]
+<screenshot015.png, id=67, 453.19313pt x 174.6525pt>
+File: screenshot015.png Graphic file (type png)
+ <use screenshot015.png>
+Package pdftex.def Info: screenshot015.png used on input line 174.
+(pdftex.def)             Requested size: 216.81pt x 83.55508pt.
+
+<screenshot016.png, id=68, 254.45062pt x 154.32657pt>
+File: screenshot016.png Graphic file (type png)
+ <use screenshot016.png>
+Package pdftex.def Info: screenshot016.png used on input line 183.
+(pdftex.def)             Requested size: 216.81pt x 131.50314pt.
+
+[9 <./screenshot015.png> <./screenshot016.png>]
+<screenshot017.png, id=74, 453.19313pt x 338.01282pt>
+File: screenshot017.png Graphic file (type png)
+ <use screenshot017.png>
+Package pdftex.def Info: screenshot017.png used on input line 198.
+(pdftex.def)             Requested size: 216.81pt x 161.7079pt.
+
+[10 <./screenshot017.png>]
+<screenshot018.png, id=79, 290.58563pt x 127.22531pt>
+File: screenshot018.png Graphic file (type png)
+ <use screenshot018.png>
+Package pdftex.def Info: screenshot018.png used on input line 220.
+(pdftex.def)             Requested size: 216.81pt x 94.92564pt.
+
+[11] <screenshot019.png, id=84, 392.96812pt x 157.33781pt>
+File: screenshot019.png Graphic file (type png)
+
+<use screenshot019.png>
+Package pdftex.def Info: screenshot019.png used on input line 227.
+(pdftex.def)             Requested size: 216.81pt x 86.80974pt.
+ <screenshot020.png, id=85, 336.50719pt x 151.3153pt>
+File: screenshot020.png Graphic file (type png)
+
+<use screenshot020.png>
+Package pdftex.def Info: screenshot020.png used on input line 255.
+(pdftex.def)             Requested size: 216.81pt x 97.49255pt.
+ [12 <./screenshot018.png> <./screenshot019.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+[]\OT1/cmr/m/it/10 A.Gal,"TheTangle:anIllustratedIntroduction,"[Online].Availab
+le:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
+[]\OT1/cmr/m/it/10 I.o.doc,"PoWontheTangle,"[Online].Available:
+ []
+
+Missing character: There is no ‚ in font cmti10!
+Missing character: There is no Ä in font cmti10!
+Missing character: There is no ô in font cmti10!
+
+Underfull \hbox (badness 3009) in paragraph at lines 270--271
+[]\OT1/cmr/m/it/10 M.Wind,"Everything you didnt know about IOTA,"[Online].Avail
+able:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--271
+\OT1/cmr/m/it/10 https://medium.com/@mistywind/iota-fud-answered-by-a-non-techi
+e-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--273
+[]\OT1/cmr/m/it/10 noneymous,"iota-consensus-presentation,"[Online].Available:
+ []
+
+
+Overfull \hbox (10.58325pt too wide) in paragraph at lines 274--275
+[]\OT1/cmr/m/it/10 WangTao,"Technologyveteransvomitingbloodsharing:abouttheadva
+ntagesand
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--275
+\OT1/cmr/m/it/10 dis-ad-van-tagesoftheconsensusmechanismofblockchain,"[Online].
+Available:
+ []
+
+[13 <./screenshot020.png>]
+Missing character: There is no ‚ in font cmti10!
+Missing character: There is no Ä in font cmti10!
+Missing character: There is no î in font cmti10!
+Missing character: There is no ‚ in font cmti10!
+Missing character: There is no Ä in font cmti10!
+Missing character: There is no î in font cmti10!
+
+Overfull \hbox (37.58687pt too wide) in paragraph at lines 276--277
+[]\OT1/cmr/m/it/10 XdagCommunicatethecommunity,"10minutestounderstandthetransit
+iontechnology
+ []
+
+
+Overfull \hbox (31.7209pt too wide) in paragraph at lines 276--277
+\OT1/cmr/m/it/10 ofblockchainDAG,"[Online].Available: https://www.jinse.com/bit
+coin/254086.html. 
+ []
+
+
+Overfull \hbox (51.87837pt too wide) in paragraph at lines 278--279
+[]\OT1/cmr/m/it/10 FireCoinNetwork,"[BeyondWhitePaper3]DAGTechnologyAnalysisand
+Measurement,"
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
+[]\OT1/cmr/m/it/10 X.Qian,"IOTAIntroductionandImprovements,"[Online].Available:
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+[]\OT1/cmr/m/it/10 A.Gal,"ConfirmationratesintheTangle,"[Online].Available:
+ []
+
+
+Underfull \hbox (badness 1629) in paragraph at lines 284--285
+[]\OT1/cmr/m/it/10 J.Hu,"IOTA Tan-gle:Introductory overview of white pa-per for
+ Be-gin-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--287
+[]\OT1/cmr/m/it/10 N.Narula,"CryptographicvulnerabilitiesinIOTA,"[Online].Avail
+able:
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 288--289
+\OT1/cmr/m/it/10 i-fiers,"[Online].Available: https://blog.iota.org/on-the-tang
+le-white-papers-
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 294--295
+\OT1/cmr/m/it/10 i-fiers,"[Online].Available: https://blog.iota.org/on-the-tang
+le-white-papers-
+ []
+
+Missing character: There is no ≈ in font cmti10!
+Missing character: There is no õ in font cmti10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--297
+[]\OT1/cmr/m/it/10 B.Kumierz,"Attackanalysis-thesimpleparasitechain,"[Online].A
+vailable:
+ []
+
+Missing character: There is no ‚ in font cmti10!
+Missing character: There is no Ä in font cmti10!
+Missing character: There is no ä in font cmti10!
+Missing character: There is no ‚ in font cmti10!
+Missing character: There is no Ä in font cmti10!
+Missing character: There is no î in font cmti10!
+Missing character: There is no ‚ in font cmti10!
+Missing character: There is no Ä in font cmti10!
+Missing character: There is no ä in font cmti10!
+
+Overfull \hbox (58.169pt too wide) in paragraph at lines 304--305
+[]\OT1/cmr/m/it/10 J.Cech,"IRI 1.5.0Newtipselectionalgorithmandotherimprovement
+s,"[Online].Available:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+[]\OT1/cmr/m/it/10 I.foundation,"IOTATanglevisualization,"[Online].Available:
+ []
+
+
+Overfull \hbox (245.08463pt too wide) in paragraph at lines 308--309
+[]\OT1/cmr/m/it/10 Ms.MissCity,"CanadirectedAcyclicDAGbecomeanIoTbackbonenetwor
+k?IOTAacceleratesapplicationlanding,"[Online].Available:
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 310--311
+[]\OT1/cmr/m/it/10 A.Gal,"Alpha:playingwithrandomness,"[Online].Available:
+ []
+
+
+Overfull \hbox (50.82022pt too wide) in paragraph at lines 312--313
+[]\OT1/cmr/m/it/10 C.Shikhelman,"ValidityintheTangle:Thegood,thebad,andtheugly,
+"[Online].Available:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+\OT1/cmr/m/it/10 https://blog.iota.org/validity-in-the-tangle-the-good-the-bad-
+and-the-ugly-
+ []
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+[15]
+Overfull \hbox (10.19502pt too wide) in paragraph at lines 354--355
+[]\OT1/cmr/m/n/10 Katz Cen-tral-ity can be used for com-put-ing con-fi-dence (k
+now-ing whether
+ []
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+[16]
+Overfull \hbox (3.38945pt too wide) in paragraph at lines 399--400
+[]\OT1/cmr/m/n/10 Only re-li-able times-tamp is re-ceived-Time (pretty sure abo
+ut the name),
+ []
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Overfull \hbox (15.89514pt too wide) in paragraph at lines 416--417
+[]\OT1/cmr/m/n/10 https://blog.iota.org/confirmation-rates-in-the-tangle-186ef0
+2878bb 
+ []
+
+[17] (./documentEnglish.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2828 strings out of 493485
+ 39905 string characters out of 3143527
+ 114392 words of memory out of 3000000
+ 6100 multiletter control sequences out of 15000+200000
+ 8241 words of font info for 29 fonts, out of 3000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 38i,6n,23p,1779b,235s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on documentEnglish.pdf (17 pages, 757911 bytes).
+PDF statistics:
+ 151 PDF objects out of 1000 (max. 8388607)
+ 79 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+
