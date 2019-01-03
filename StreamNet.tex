@@ -1,0 +1,103 @@
+\documentclass[10pt, conference, compsocconf]{IEEEtran}
+
+\usepackage[ruled,linesnumbered,lined,commentsnumbered]{algorithm2e}
+\SetAlFnt{\small}
+\SetAlCapFnt{\small}
+\SetAlCapNameFnt{\small}
+\usepackage{algorithmic}
+\algsetup{linenosize=\tiny}
+\usepackage[tight]{subfigure}
+\usepackage{graphicx}
+\usepackage{multicol,lipsum}
+\usepackage{amsfonts}
+\usepackage{booktabs}
+\usepackage{siunitx}
+\usepackage{mathtools}
+\usepackage{breqn}
+\usepackage{placeins}
+\usepackage{balance}
+
+
+%
+\ifCLASSINFOpdf
+\else
+\fi
+\hyphenation{op-tical net-works semi-conduc-tor}
+
+
+\begin{document}
+\title{TRIAS StreamNet: DAG platform based on flow graph calculation}
+
+
+\author{\IEEEauthorblockN{Zhaoming Yin}
+\IEEEauthorblockA{ TRIAS Lab\\
+Hangzhou, China\\
+yinzhaoming@trias.one}
+\and
+\IEEEauthorblockN{Junqing Wang}
+\IEEEauthorblockA{ TRIAS Lab\\
+Hangzhou, China\\
+wangjunqing@trias.one}
+\and
+\IEEEauthorblockN{Ming Ni}
+\IEEEauthorblockA{ TRIAS Lab\\
+Hangzhou, China\\
+wangjunqing@trias.one}
+\and
+\IEEEauthorblockN{Ming Wei}
+\IEEEauthorblockA{ TRIAS Lab\\
+Hangzhou, China\\
+wangjunqing@trias.one}
+\and
+\IEEEauthorblockN{Anbang Ruan}
+\IEEEauthorblockA{ TRIAS Lab\\
+Hangzhou, China\\
+wangjunqing@trias.one}
+}
+
+\maketitle
+
+
+
+
+\begin{abstract}
+\input{./sections/abstract.tex}
+\end{abstract}
+
+\begin{IEEEkeywords}
+Near Repeat, Mapreduce, Graph Analysis
+
+\end{IEEEkeywords}
+
+
+\IEEEpeerreviewmaketitle
+
+
+
+% no \IEEEPARstart
+\input{./sections/introduction.tex}
+% You must have at least 2 lines in the paragraph with the drop letter
+% (should never be an issue)
+
+\input{./sections/problems.tex}
+
+\input{./sections/methods.tex}
+
+% conference papers do not normally have an appendix
+
+
+% use section* for acknowledgement
+%\input{./sections/conclusion.tex}
+%\input{./sections/ackowledge.tex}
+
+\bibliographystyle{IEEEtran}
+\balance
+\bibliography{bare_conf}
+
+
+
+
+% that's all folks
+\end{document}
+
+
